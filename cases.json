@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Clumsy Bird",
+    "base": "clumsy",
+    "render": "clumsy-render",
+    "size": "900 × 600"
+  },
+  {
+    "name": "Onslaught Arena",
+    "base": "arena",
+    "render": "arena-render",
+    "size": "640 × 480"
+  },
+  {
+    "name": "Altos 8-bit",
+    "base": "altos",
+    "render": "altos-render",
+    "size": "640 × 360"
+  },
+  {
+    "name": "BrowserQuest",
+    "base": "browserquest",
+    "render": "browserquest-render",
+    "size": "960 × 448"
+  },
+  {
+    "name": "JavaScript Racer",
+    "base": "racer",
+    "render": "racer-render",
+    "size": "640 × 480"
+  },
+  {
+    "name": "Pixel Hop Twins",
+    "base": "pixel",
+    "render": "pixel-render",
+    "size": "640 × 400"
+  },
+  {
+    "name": "Radius Raid",
+    "base": "radius",
+    "render": "radius-render",
+    "size": "800 × 600"
+  }
+]
